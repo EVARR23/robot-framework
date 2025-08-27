@@ -5,3 +5,5 @@ ${ADMIN_PASSWORD}    1234@Test
 ${TOKEN}    None
 ${BOARD_ID}        None
 ${BOARD_NAME}    None
+${COSTCENTERNAME}    None
+
