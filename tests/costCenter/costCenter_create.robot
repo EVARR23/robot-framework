@@ -11,3 +11,8 @@ Test Setup    Login e Obter Token
     Cadastrar Centro de Custo
 
 
+Cadastrar centro de custo constCentername não informado
+    [Documentation]    
+    Cadastrar centro de custo constCentername não informado
+    
+   
